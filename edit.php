@@ -1,7 +1,7 @@
 <?php
 include 'database.php';
 $db = new database();
-?>
+?> 
 
 <h1>CRUD OOP PHP</h1>
 <h2>WWW.MALASNGODING.COM</h2>
