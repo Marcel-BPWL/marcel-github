@@ -35,3 +35,4 @@ foreach($db->edit($_GET['id']) as $d){
 }
 ?>
 </table>
+	
